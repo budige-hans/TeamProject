@@ -1,4 +1,3 @@
-
 # TeamProject
 
 My first Git and GitHub collaboration project.
@@ -8,3 +7,6 @@ My first Git and GitHub collaboration project.
 - Team collaboration
 - Branching
 - Pull requests
+
+## Our First Feature
+This feature was developed on a separate branch.
